@@ -56,3 +56,8 @@ pip install -r requirements.txt
 ```
 
 No entanto, como o projeto foi desenvolvido especificamente para ser executado no Databricks, não é possível prever o comportamento da execução em ambiente local. Por isso, sugiro utilizar a versão gratuita do Databricks Free Edition.
+
+## 3. Dashboard
+
+Para este projeto, foi desenvolvido um painel no Power BI, disponível na pasta `Dashboard/Analises dos clientes e ofertas.pbix`. Caso você não tenha o Power BI instalado, é possível baixá-lo no seguinte link: [Download Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi/downloads).
+
