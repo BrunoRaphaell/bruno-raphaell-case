@@ -41,3 +41,12 @@ Outro exemplo de modificação necessária para definir o caminho na sua estrutu
 # Mude aqui para registrar o modelo no seu caminho!!!
 local_salvo = f"workspace.modelos_ml.{nome_modelo}"
 ```
+
+Caso seja de seu interesse executar o projeto localmente, basta utilizar o comando:
+
+
+```
+git clone https://github.com/BrunoRaphaell/bruno-raphaell-case.git
+```
+
+No entanto, como o projeto foi desenvolvido especificamente para ser executado no Databricks, não é possível prever o comportamento da execução em ambiente local. Por isso, sugiro utilizar a versão gratuita do Databricks Free Edition.
