@@ -49,4 +49,10 @@ Caso seja de seu interesse executar o projeto localmente, basta utilizar o coman
 git clone https://github.com/BrunoRaphaell/bruno-raphaell-case.git
 ```
 
+Aqui deixei também o arquivo `requirements.txt` para instalar as depências no ambiente virtual com o comando:
+
+```
+pip install -r requirements.txt
+```
+
 No entanto, como o projeto foi desenvolvido especificamente para ser executado no Databricks, não é possível prever o comportamento da execução em ambiente local. Por isso, sugiro utilizar a versão gratuita do Databricks Free Edition.
